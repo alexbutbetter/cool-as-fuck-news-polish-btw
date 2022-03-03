@@ -1,4 +1,4 @@
-# cool-as-fuck-news-
+# cool as fuck news
 
 a big ass fuckin meme news network for my school written in polish
 
